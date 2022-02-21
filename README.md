@@ -5,9 +5,9 @@ exercise project
 # Age :  20
 # Color : Pink ,White ,Begie
 # Language :
-.............+ Tamil
-.............+ English
-.............+ German
++ Tamil
++ English
++ German
 # Favourite Restaurants
-.............+ South Indian Restaurants
-.............+ Thai Restaurants
++ South Indian Restaurants
++ Thai Restaurants
